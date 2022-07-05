@@ -12,7 +12,7 @@ const Box = () => {
 
     async function handleSubmit(){
         const PERSPECTIVE_API_URL = `https://commentanalyzer.googleapis.com/v1alpha1/comments:analyze?key=${process.env.REACT_APP_API_KEY}`;
-        const res = await axios.post(PERSPECTIVE_API_URL, {
+        axios.post(PERSPECTIVE_API_URL, {
             comment: {
                 text: Input
             },
