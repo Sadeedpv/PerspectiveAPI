@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PerspectiveAPI/static/css/main.24ab4354.css",
+    "main.js": "/PerspectiveAPI/static/js/main.21fb291b.js",
+    "index.html": "/PerspectiveAPI/index.html",
+    "main.24ab4354.css.map": "/PerspectiveAPI/static/css/main.24ab4354.css.map",
+    "main.21fb291b.js.map": "/PerspectiveAPI/static/js/main.21fb291b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24ab4354.css",
+    "static/js/main.21fb291b.js"
+  ]
+}
